@@ -12,6 +12,7 @@ RUN set -x \
     bzip2-dev \
     libressl-dev \
     curl \
+    openssh \
     git \
     cyrus-sasl-dev \
     zlib-dev \
